@@ -56,8 +56,9 @@ Aqui você encontra alguns dos meus projetos voltados para **dados, machine lear
 
 ##  Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sidney-santos](https://www.linkedin.com/in/sidney-santos-analista-de-dados)  
- **Email:** sidneysantosdatascientist@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-santos-analista-de-dados) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sidneysantos)  
+📧 **Email:** sidneysantosdatascientist@gmail.com
 
 
 ---
