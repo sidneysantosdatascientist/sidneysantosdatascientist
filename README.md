@@ -30,6 +30,12 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 ---
 
+## 🛠️ Projetos e Contribuições
+
+** Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, unindo modelagem estatística, machine learning e storytelling com dados. Aqui você encontra alguns dos meus projetos voltados para **dados, machine learning e inteligência de negócios**. Fique à vontade para explorar!
+
+---
+
 ## 🚀 Projetos em Destaque  
 
 | 📊 Projeto | 🔎 Descrição | 🛠️ Tecnologias |
