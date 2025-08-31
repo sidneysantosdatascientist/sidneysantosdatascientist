@@ -64,7 +64,6 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 ## 🌱 Aprendendo agora  
 - Engenharia de IA (IA Engineering)  
-- Data Warehouse  
 
 ---
 
