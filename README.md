@@ -66,7 +66,7 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-santos-analista-de-dados)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sidneysantos)  
-📧 [Email](mailto:sidneysantosdatascientist@gmail.com)  
+📧 **Email:** sidneysantosdatascientist@gmail.com
 
 ---
 
