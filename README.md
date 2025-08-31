@@ -20,11 +20,6 @@ Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, u
 | [**Estudo Clínico Simulado (Hipertensão)**](https://github.com/sidneysantos/estudo-clinico) | **CRFs fictícios**, análise estatística e **dashboards interativos**. | MySQL, Python, Power BI, REDCap |
 | [**Churn & Segmentação (Cosméticos)**](https://github.com/sidneysantos/churn-cosmeticos) | Previsão de churn e clusters de clientes, com foco em **estratégias de inclusão**. | Python, scikit-learn, Power BI |
 
-> Dica: adicione imagens dos projetos (prints de dashboards ou notebooks) logo abaixo:
-
-### 📊 Exemplo de Dashboard
-<!-- Substitua pelo caminho do arquivo enviado ao repositório, ex.: images/dashboard.png -->
-![Dashboard Power BI](images/dashboard.png)
 
 ---
 
@@ -60,6 +55,8 @@ Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, u
   />
 
 </p>
+
+
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-santos)  
