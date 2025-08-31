@@ -23,10 +23,6 @@ Sou um profissional com experiência em **Análise de Dados** e **Engenharia de 
 Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, unindo modelagem estatística, machine learning e storytelling com dados.
 Aqui você encontra alguns dos meus projetos voltados para **dados, machine learning e inteligência de negócios**. Fique à vontade para explorar!   
 
-📫 **Contato:**  
-- [LinkedIn](https://www.linkedin.com/in/sidney-santos-analista-de-dados/) 
--  Email: sidneysantosdatascientist@gmail.com
-
 ---
 
 ##  Projetos em Destaque
