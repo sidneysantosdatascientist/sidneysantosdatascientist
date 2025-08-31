@@ -19,7 +19,7 @@ Sou um profissional com experiência em **Análise de Dados** e **Engenharia de 
 - **Bacharelado em Ciências Contábeis** - Universidade Federal Fluminense  
 - **Pós-graduação em Ciência de Dados**  
 
-💻 **Projetos e Contribuições:**  
+ **Projetos e Contribuições:**  
 Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, unindo modelagem estatística, machine learning e storytelling com dados.
 Aqui você encontra alguns dos meus projetos voltados para **dados, machine learning e inteligência de negócios**. Fique à vontade para explorar!   
 
@@ -29,9 +29,9 @@ Aqui você encontra alguns dos meus projetos voltados para **dados, machine lear
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-| 📊 Projeto | 🔎 Descrição | 🛠️ Tecnologias |
+|  Projeto |  Descrição | 🛠 Tecnologias |
 |------------|-------------|----------------|
 | [**Detecção de Fraudes com Modelagem Multivariada**](https://github.com/sidneysantos/deteccao-fraudes) | Aplicação de **PCA, Regressão Logística e Random Forest** para identificar transações suspeitas. | Python, scikit-learn, pandas, matplotlib |
 | [**Sistema de Recomendação por Similaridade de Imagens**](https://github.com/sidneysantos/recomendacao-imagens) | **Deep Learning** para sugerir produtos por cor, forma e textura. | Python, TensorFlow/Keras, OpenCV |
@@ -56,7 +56,7 @@ Aqui você encontra alguns dos meus projetos voltados para **dados, machine lear
 
 ##  Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sidney-santos](https://www.linkedin.com/in/sidney-santos-analista-de-dados))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sidney-santos](https://www.linkedin.com/in/sidney-santos-analista-de-dados)  
  **Email:** sidneysantosdatascientist@gmail.com
 
 
