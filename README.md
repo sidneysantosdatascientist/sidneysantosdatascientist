@@ -1,13 +1,31 @@
 
+#  Olá! Eu sou Sidney Santos
 
 
-# 👋 Olá, eu sou Sidney Santos
 
-🎓 Tenho pós-graduação em **Ciência de Dados**  
-📍 Rio de Janeiro – Brasil  
-💻 Interesse em **análise de dados, IA/ML, engenharia de dados e visualização**
+ **Sobre mim:**  
+Sou um profissional com experiência em **Análise de Dados** e **Engenharia de Dados**, especializado na criação e automação de **ETL**, integração de múltiplas fontes de dados e otimização de bancos de dados. Tenho habilidades na geração de **insights estratégicos** por meio de relatórios e dashboards interativos, auxiliando na **tomada de decisão** empresarial.  
 
+ **Experiência:**  
+- **Analista de Dados na Orb Music** → Desenvolvimento e automação de pipelines de dados com **Python**, otimização de fluxos de dados e criação de relatórios em **Power BI**.  
+- **UX Designer na Union Group** → Aplicação de **Lean UX**, **Scrum** e **Figma** em projetos práticos de experiência do usuário.  
+
+ **Habilidades Técnicas:**  
+- **Linguagens:** Python, SQL
+- **Ferramentas & Tecnologias:** Power BI, ETL, Bancos de Dados, Machine Learning    
+- **Conhecimentos:** Estatística, Matemática Aplicada, Análise Preditiva, Modelagem de Dados  
+
+ **Formação Acadêmica:**  
+- **Bacharelado em Ciências Contábeis** - Universidade Federal Fluminense  
+- **Pós-graduação em Ciência de Dados**  
+
+💻 **Projetos e Contribuições:**  
 Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, unindo modelagem estatística, machine learning e storytelling com dados.
+Aqui você encontra alguns dos meus projetos voltados para **dados, machine learning e inteligência de negócios**. Fique à vontade para explorar!   
+
+📫 **Contato:**  
+- [LinkedIn](https://www.linkedin.com/in/sidney-santos-analista-de-dados/) 
+-  Email: sidneysantosdatascientist@gmail.com
 
 ---
 
@@ -23,7 +41,7 @@ Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, u
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -36,10 +54,10 @@ Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, u
 ---
 
 
-## 📬 Contato
+##  Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-santos)  
-📧 **Email:** sidneysantosdatascientist@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sidney-santos](https://www.linkedin.com/in/sidney-santos-analista-de-dados))  
+ **Email:** sidneysantosdatascientist@gmail.com
 
 
 ---
