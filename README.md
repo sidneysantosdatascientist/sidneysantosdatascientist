@@ -56,6 +56,7 @@ Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, u
 
 </p>
 
+---
 
 ## 📬 Contato
 
