@@ -57,19 +57,17 @@ Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, u
 </p>
 
 
-
+ />
 
 
 ---
 
 
-
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-santos)  
-📧 **Email:** seu-email@exemplo.com
+📧 **Email:** sidneysantosdatascientist@gmail.com
 
 
-
+---
 
