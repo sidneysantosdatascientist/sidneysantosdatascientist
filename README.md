@@ -14,7 +14,7 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 ## 💼 Experiência  
 
 - **Analista de Dados – Orb Music**  
-  - Desenvolvimento e automação de pipelines de dados em **Python**, reduzindo em **40% o tempo de processamento de relatórios**.  
+  - Desenvolvimento e automação de pipelines de dados em **Python**, reduzindo em o tempo de processamento de relatórios**.  
   - Criação de dashboards interativos no **Power BI**, aumentando a eficiência das análises e auxiliando gestores em decisões estratégicas.  
 
 ---
