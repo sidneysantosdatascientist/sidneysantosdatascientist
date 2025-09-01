@@ -17,10 +17,6 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
   - Desenvolvimento e automação de pipelines de dados em **Python**, reduzindo em **40% o tempo de processamento de relatórios**.  
   - Criação de dashboards interativos no **Power BI**, aumentando a eficiência das análises e auxiliando gestores em decisões estratégicas.  
 
-- **UX Designer – Union Group**  
-  - Aplicação de **Lean UX** e **Scrum** em projetos de experiência do usuário.  
-  - Desenvolvimento de protótipos e interfaces no **Figma**, alinhando design às necessidades de negócio.  
-
 ---
 
 ## 🎓 Formação Acadêmica  
