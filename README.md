@@ -45,6 +45,44 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 ---
 
+🧰 Tech Stack
+Linguagens
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+
+Machine Learning
+https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+
+Banco de Dados & BI
+https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black
+
+Versionamento
+https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+
+Visualização de Dados
+https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white
+
+Processamento de Dados
+https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white
+
+MLOps & Deployment
+https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white
+
+Sistemas Operacionais
+https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white
+
+Ferramentas de Desenvolvimento
+https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white
+
+Documentação
+https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white
+
+Testing
+https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white
+
+
+
+
+
 ## 🧰 Tech Stack  
 
 **Linguagens**  
