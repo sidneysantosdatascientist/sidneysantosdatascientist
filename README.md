@@ -45,41 +45,48 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 ---
 
-🧰 Tech Stack
-Linguagens
-![Python]https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+## 🧰 Tech Stack
 
-Machine Learning
-https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+### Linguagens  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Banco de Dados & BI
-https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black
+### Machine Learning  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-Versionamento
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+### Banco de Dados & BI  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-Visualização de Dados
-https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white
+### Versionamento  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Processamento de Dados
-https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white
+### Visualização de Dados  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-MLOps & Deployment
-https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white
+### Processamento de Dados  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-Sistemas Operacionais
-https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white
+### MLOps & Deployment  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-Ferramentas de Desenvolvimento
-https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white
+### Sistemas Operacionais  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-Documentação
-https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white
+### Ferramentas de Desenvolvimento  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Testing
-https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white
+### Documentação  
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-
+### Testing  
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 
 
