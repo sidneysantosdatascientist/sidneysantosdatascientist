@@ -47,7 +47,7 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 🧰 Tech Stack
 Linguagens
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+![Python]https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
 
 Machine Learning
 https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
