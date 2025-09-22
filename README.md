@@ -36,7 +36,7 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 | 📊 Projeto | 🔎 Descrição | 🛠️ Tecnologias |
 |------------|-------------|----------------|
-| [**Detecção de Fraudes com Modelagem Multivariada**](https://github.com/sidneysantos/deteccao-fraudes) | Aplicação de **PCA, Regressão Logística e Random Forest** para identificar transações suspeitas. | Python, scikit-learn, pandas, matplotlib |
+| [**Detecção de Fraudes com Modelagem Multivariada**]([https://github.com/sidneysantos/deteccao-fraudes](url)) | Aplicação de **PCA, Regressão Logística e Random Forest** para identificar transações suspeitas. | Python, scikit-learn, pandas, matplotlib |
 | [**Sistema de Recomendação por Similaridade de Imagens**](https://github.com/sidneysantos/recomendacao-imagens) | **Deep Learning** para sugerir produtos por cor, forma e textura. | Python, TensorFlow/Keras, OpenCV |
 | [**Estudo Clínico Simulado (Hipertensão)**](https://github.com/sidneysantos/estudo-clinico) | **CRFs fictícios**, análise estatística e **dashboards interativos**. | MySQL, Python, Power BI, REDCap |
 | [**Churn & Segmentação (Cosméticos)**](https://github.com/sidneysantos/churn-cosmeticos) | Previsão de churn e clusters de clientes, com foco em **estratégias de inclusão**. | Python, scikit-learn, Power BI |
