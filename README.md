@@ -36,7 +36,8 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 | 📊 Projeto | 🔎 Descrição | 🛠️ Tecnologias |
 |------------|-------------|----------------|
-| [**Detecção de Fraudes com Modelagem Multivariada**](https://github.com/sidneysantosdatascientist/detecao_fraudes_artigo_cientifico) | Aplicação de **PCA, Regressão Logística e Random Forest** para identificar transações suspeitas. | Python, scikit-learn, pandas, matplotlib |
+| [**Análise e modelagem de dados de vendas**](https://github.com/sidneysantosdatascientist/analise_de_vendas) | Inclui SQL, Python e Power BI para consultas, EDA, dashboards interativos e modelos de Ciência de Dados com segmentação de clientes e previsão de faturamento. | Python, scikit-learn, pandas, matplotlib |
+| [**Detecção de Fraudes com Modelagem Multivariada**](https://github.com/sidneysantosdatascientist/detecao_fraudes_artigo_cientifico) | Aplicação de **PCA, Regressão Logística e Random Forest** para identificar transações suspeitas. | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Statsmodels, PostgreSQL, SQL, Google Colab, Power BI |
 | [**Modelo de Score de Crédito**](https://github.com/sidneysantosdatascientist/modelo_de_score_de_credito) | **Previsão do risco de crédito de clientes usando machine learning, classificando-os em risco Baixo, Médio ou Alto.** | Python: programação | Pandas: dados | Scikit-learn/XGBoost: ML | Matplotlib/Seaborn: gráficos | Streamlit: dashboards |
 | [**Estudo Clínico Simulado (Hipertensão)**](https://github.com/sidneysantosdatascientist/estudo_clinico_hipertensao) | **CRFs fictícios**, análise estatística e **dashboards interativos**. | MySQL, Python, Power BI, REDCap |
 | [**Churn & Segmentação (Cosméticos)**](https://github.com/sidneysantosdatascientist/Churn_Segmentacao) | Previsão de churn e clusters de clientes, com foco em **estratégias de inclusão**. | Python, scikit-learn, Power BI |
