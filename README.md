@@ -1,17 +1,17 @@
 
 
-# 👋 Olá! Eu sou Sidney Santos  
-🔎 Data Scientist | 📊 Data Analyst | ⚙️ Data Engineer  
+# Sidney Santos  
+ Data Scientist | 📊 Data Analyst | ⚙️ Data Engineer  
 
 ---
 
-## 👨‍💻 Sobre mim  
+## Sobre mim  
 Sou pós-graduado em **Ciência de Dados** e tenho experiência em **Análise e Engenharia de Dados**, atuando no desenvolvimento e automação de **ETLs**, integração de múltiplas fontes de dados e otimização de bancos.  
 Tenho interesse em **machine learning, estatística aplicada e inteligência de negócios**, criando soluções que geram **insights estratégicos** para apoiar a **tomada de decisão**.  
 
 ---
 
-## 💼 Experiência  
+## Experiência  
 
 - **Analista de Dados – Orb Music**  
   - Desenvolvimento e automação de pipelines de dados em **Python**, reduzindo em o tempo de processamento de relatórios**.  
@@ -19,22 +19,22 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 ---
 
-## 🎓 Formação Acadêmica  
+## Formação Acadêmica  
 
 - **Bacharelado em Ciências Contábeis** – Universidade Federal Fluminense  
 - **Pós-graduação em Ciência de Dados**  
 
 ---
 
-## 🛠️ Projetos e Contribuições
+## Projetos e Contribuições
 
 ** Atuo desenvolvendo projetos que geram **insights acionáveis para negócios**, unindo modelagem estatística, machine learning e storytelling com dados. Aqui você encontra alguns dos meus projetos voltados para **dados, machine learning e inteligência de negócios**. Fique à vontade para explorar!
 
 ---
 
-## 🚀 Projetos em Destaque  
+## Projetos em Destaque  
 
-| 📊 Projeto | 🔎 Descrição | 🛠️ Tecnologias |
+|  Projeto |  Descrição |  Tecnologias |
 |------------|-------------|----------------|
 | [**Análise e modelagem de dados de vendas**](https://github.com/sidneysantosdatascientist/analise_de_vendas) | Inclui SQL, Python e Power BI para consultas, EDA, dashboards interativos e modelos de Ciência de Dados com segmentação de clientes e previsão de faturamento. | Python, scikit-learn, pandas, matplotlib |
 | [**Detecção de Fraudes com Modelagem Multivariada**](https://github.com/sidneysantosdatascientist/detecao_fraudes_artigo_cientifico) | Aplicação de **PCA, Regressão Logística e Random Forest** para identificar transações suspeitas. | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Statsmodels, PostgreSQL, SQL, Google Colab, Power BI |
@@ -42,11 +42,11 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 | [**Estudo Clínico Simulado (Hipertensão)**](https://github.com/sidneysantosdatascientist/estudo_clinico_hipertensao) | **CRFs fictícios**, análise estatística e **dashboards interativos**. | MySQL, Python, Power BI, REDCap |
 | [**Churn & Segmentação (Cosméticos)**](https://github.com/sidneysantosdatascientist/Churn_Segmentacao) | Previsão de churn e clusters de clientes, com foco em **estratégias de inclusão**. | Python, scikit-learn, Power BI |
 
-📌 *Confira os demais repositórios no meu perfil para mais projetos em dados e machine learning!*  
+ *Confira os demais repositórios no meu perfil para mais projetos em dados e machine learning!*  
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Linguagens  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -92,12 +92,12 @@ Tenho interesse em **machine learning, estatística aplicada e inteligência de 
 
 ---
 
-## 🌱 Aprendendo agora  
+##  Aprendendo agora  
 - Engenharia de IA (IA Engineering)  
 
 ---
 
-## 📬 Contato  
+##  Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-santos-analista-de-dados)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sidneysantosdatascientist)  
