@@ -1,7 +1,7 @@
 
 
 # Sidney Santos  
- Data Scientist | 📊 Data Analyst | ⚙️ Data Engineer  
+ Data Scientist |  Data Analyst |  Data Engineer  
 
 ---
 
